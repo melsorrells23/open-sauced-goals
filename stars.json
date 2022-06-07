@@ -1,5 +1,65 @@
 [
   {
+    "full_name": "carloscuesta/gitmoji-cli",
+    "stargazers_count": 3786,
+    "open_issues_count": 8,
+    "forks_count": 189
+  },
+  {
+    "full_name": "github-community/community",
+    "stargazers_count": 2794,
+    "open_issues_count": 4,
+    "forks_count": 938
+  },
+  {
+    "full_name": "romenrg/evergreen-skills-developers",
+    "stargazers_count": 1359,
+    "open_issues_count": 1,
+    "forks_count": 96
+  },
+  {
+    "full_name": "zzetao/awesome-github-profile",
+    "stargazers_count": 255,
+    "open_issues_count": 7,
+    "forks_count": 17
+  },
+  {
+    "full_name": "HFO4/awesome-github-profile-readme",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "badgen/badgen.net",
+    "stargazers_count": 1194,
+    "open_issues_count": 28,
+    "forks_count": 102
+  },
+  {
+    "full_name": "rzashakeri/beautify-github-profile",
+    "stargazers_count": 7287,
+    "open_issues_count": 0,
+    "forks_count": 254
+  },
+  {
+    "full_name": "Kaggle/kaggle-api",
+    "stargazers_count": 4768,
+    "open_issues_count": 222,
+    "forks_count": 934
+  },
+  {
+    "full_name": "wesbos/Cobalt2-Alfred-Theme",
+    "stargazers_count": 109,
+    "open_issues_count": 0,
+    "forks_count": 10
+  },
+  {
+    "full_name": "open-sauced/open-sauced",
+    "stargazers_count": 671,
+    "open_issues_count": 16,
+    "forks_count": 280
+  },
+  {
     "full_name": "tterb/Atomic-Design-UI",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -19,27 +79,27 @@
   },
   {
     "full_name": "Asabeneh/30-Days-Of-HTML",
-    "stargazers_count": 250,
+    "stargazers_count": 251,
     "open_issues_count": 0,
-    "forks_count": 62
+    "forks_count": 61
   },
   {
     "full_name": "lokesh/color-thief",
-    "stargazers_count": 10756,
+    "stargazers_count": 10763,
     "open_issues_count": 68,
     "forks_count": 1270
   },
   {
     "full_name": "kmaasrud/awesome-obsidian",
-    "stargazers_count": 3015,
+    "stargazers_count": 3021,
     "open_issues_count": 6,
-    "forks_count": 156
+    "forks_count": 158
   },
   {
     "full_name": "logseq/awesome-logseq",
-    "stargazers_count": 921,
+    "stargazers_count": 924,
     "open_issues_count": 1,
-    "forks_count": 51
+    "forks_count": 52
   },
   {
     "full_name": "wptrainingteam/high-level-overview",
@@ -49,9 +109,9 @@
   },
   {
     "full_name": "readthedocs/readthedocs.org",
-    "stargazers_count": 7096,
-    "open_issues_count": 372,
-    "forks_count": 3588
+    "stargazers_count": 7102,
+    "open_issues_count": 367,
+    "forks_count": 3590
   },
   {
     "full_name": "WordPress/HelpHub",
@@ -61,15 +121,15 @@
   },
   {
     "full_name": "WordPress/Learn",
-    "stargazers_count": 78,
-    "open_issues_count": 322,
+    "stargazers_count": 79,
+    "open_issues_count": 325,
     "forks_count": 27
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 106637,
+    "stargazers_count": 106712,
     "open_issues_count": 213,
-    "forks_count": 11399
+    "forks_count": 11397
   },
   {
     "full_name": "Hmcg23/flashcards-project",
@@ -79,13 +139,13 @@
   },
   {
     "full_name": "k88hudson/git-flight-rules",
-    "stargazers_count": 38789,
+    "stargazers_count": 38797,
     "open_issues_count": 14,
-    "forks_count": 2988
+    "forks_count": 2989
   },
   {
     "full_name": "mangini/gdocs2md",
-    "stargazers_count": 2627,
+    "stargazers_count": 2628,
     "open_issues_count": 47,
     "forks_count": 638
   },
@@ -103,7 +163,7 @@
   },
   {
     "full_name": "colbyfayock/50-projects-for-react-and-the-static-web",
-    "stargazers_count": 617,
+    "stargazers_count": 618,
     "open_issues_count": 2,
     "forks_count": 95
   },
@@ -115,68 +175,8 @@
   },
   {
     "full_name": "workshopper/learnyounode",
-    "stargazers_count": 7001,
+    "stargazers_count": 7004,
     "open_issues_count": 117,
     "forks_count": 1810
-  },
-  {
-    "full_name": "30-seconds/30-seconds-of-python",
-    "stargazers_count": 8243,
-    "open_issues_count": 2,
-    "forks_count": 1244
-  },
-  {
-    "full_name": "30-seconds/30-seconds-of-css",
-    "stargazers_count": 15410,
-    "open_issues_count": 0,
-    "forks_count": 1040
-  },
-  {
-    "full_name": "workshopper/how-to-markdown",
-    "stargazers_count": 192,
-    "open_issues_count": 0,
-    "forks_count": 72
-  },
-  {
-    "full_name": "mdo/wtf-html-css",
-    "stargazers_count": 1398,
-    "open_issues_count": 17,
-    "forks_count": 93
-  },
-  {
-    "full_name": "mswift42/themecreator",
-    "stargazers_count": 342,
-    "open_issues_count": 6,
-    "forks_count": 28
-  },
-  {
-    "full_name": "jesseleite/an-old-hope-syntax-atom",
-    "stargazers_count": 83,
-    "open_issues_count": 6,
-    "forks_count": 20
-  },
-  {
-    "full_name": "erikmueller/an-old-hype",
-    "stargazers_count": 18,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 7347,
-    "open_issues_count": 31,
-    "forks_count": 3175
-  },
-  {
-    "full_name": "jlord/gardening",
-    "stargazers_count": 32,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "jlord/forkngo",
-    "stargazers_count": 121,
-    "open_issues_count": 2,
-    "forks_count": 49
   }
 ]
